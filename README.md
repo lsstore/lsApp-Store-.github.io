@@ -1,1 +1,1 @@
-# LS AppStore.github.io
+#http://LSAppStore.github.io
